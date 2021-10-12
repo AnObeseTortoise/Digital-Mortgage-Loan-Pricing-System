@@ -1,0 +1,46 @@
+    1  cd Desktop
+    2  cd Loan-Pricing/
+    3  git ReadME.md
+    4  git status
+    5  git add README.md
+    6  git commit -m "Added user interaction interface to save filtered qualified loan results to the outpath destination of the users choice."  
+    7  git add Digital-Mortgage-Loan-Pricing-System/
+    8  git rm --cached Digital-Mortgage-Loan-Pricing-System
+    9  -f
+   10  cd Digital-Mortgage-Loan_pricing-System
+   11  cd Digit-Mortgage-Loan-Pricing-System
+   12  cd Digital-Mortgage-Loan-Pricing-System
+   13  git status
+   14  git commit -m "Added user interactability to ask clients if they would like to save the results of thier filtered Loans to an outpath of thier choice"
+   15  git status
+   16  git push
+   17  git status
+   18  git ls
+   19  ls
+   20  cd Starter_Code/
+   21  ls
+   22  git loan_qualifier_app/
+   23  cd loan_qualifier_app/
+   24  git status
+   25  git commit -m "Updated user interaction to allow client to save results of the filtered loan data to an outpath of thier choice"
+   26  git push
+   27  cd app.py 
+   28  git push 
+   29  git status
+   30  git add . 
+   31  git status
+   32  git commit -am "updated usability of the Loan Qualification App to allow user to save filtered results to an outpath of thier choice"
+   33  git status
+   34  git add 
+   35  git add loan_qualifier_app
+   36  git commit -m "Updated usabilty of the Qualified Loan filter app to allow clients to save results to an outpath of thier choice"
+   37  git push
+   38  cd README.md 
+   39  git commit -m "Updated usability to allow client to save filtered results to the outpath of thier choice"
+   40  git add README.md
+   41  git status
+   42  git commit -m "Updated Application README.md to accurately describe the function and usability of the Loan Qualifier App"
+   43  git push
+   44  cd ..
+   45  cd ..
+   46  history 50 > terminal_history.txt
