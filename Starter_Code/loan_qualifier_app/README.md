@@ -1,33 +1,39 @@
 # Project Title
+Qualified Loan Filter App.
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+this app allows the user to enter thier information and filter loans they qualify for. The user can tehn save the results to thier desired outpath by entering that information.  
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+Python 3.7
+Fire
+Questionary
+
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+Python. 
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+Enter initial Loan data csv: "Data/daily_rate_sheet.csv" 
+Enter personal data/perameters.
+Save filtered results or decline.
+Enter outpath for saved results. 
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
-
+Dominik M Tortes
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+NA
