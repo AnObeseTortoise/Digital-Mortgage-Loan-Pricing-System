@@ -1,7 +1,7 @@
 # Project Title
 Qualified Loan Filter App.
 
-this app allows the user to enter thier information and filter loans they qualify for. The user can tehn save the results to thier desired outpath by entering that information.  
+This app allows the user to enter thier information and filter loans they qualify for. The user can then save the results to thier desired outpath by entering that information.  
 
 ---
 
